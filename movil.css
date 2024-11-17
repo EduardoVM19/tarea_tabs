@@ -1,0 +1,36 @@
+@media screen and (max-width: 380px) {
+    .tabs {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .tabs li {
+        width: 90%;
+    }
+
+    .fila1 {
+        flex-direction: column;
+        width: 90%;
+        margin: auto;
+    }
+
+    .fila2 {
+        flex-direction: column;
+        width: 90%;
+        margin: auto;
+    }
+
+    .img1 {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .img2 {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
